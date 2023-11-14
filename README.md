@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Honing front-end skills: TypeScript, Chakra UI, Next.js.<br>👯 Open for innovative web project collaborations.<br>🤝 Seeking advanced web dev tips.<br>🌱 Exploring web optimization and serverless architecture.<br>💬 Curious about full-stack development? Just ask!<br>⚡ Fun fact: I'm a Globetrotting Developer!<br><br>
+🔭 Honing front-end skills: TypeScript, Tailwind, Next.js.<br>👯 Open for innovative web project collaborations.<br>🤝 Seeking advanced web dev tips.<br>🌱 Exploring web optimization and serverless architecture.<br>💬 Curious about full-stack development? Just ask!<br>⚡ Fun fact: I'm a Globetrotting Developer!<br><br>
 
 
 ## 🌐 Socials:
